@@ -3,7 +3,7 @@ macx{
 }
 TEMPLATE = app
 TARGET = Digitaleurasia-qt
-VERSION = 1.0.1
+VERSION = 3.6.0
 INCLUDEPATH += src src/json src/qt /usr/local/include
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
 CONFIG += no_include_pwd
