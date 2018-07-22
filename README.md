@@ -41,7 +41,9 @@ Having   1 month : 48.22
 
 
 <h1>DEC Coin Node</h1>
-159.65.102.43<Br>
+77.34.90.180<Br>
+195.201.109.46<Br>
+206.189.78.229<Br>
 
 
 <h1>DEC Coin Block Explore</h1>
